@@ -1,4 +1,5 @@
 swc-wise-testrepo
 =================
 
-respository created during swc bootcamp
+Test respository created during Software Carpentry bootcamp. WISE 2013
+
